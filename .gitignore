@@ -1,0 +1,10 @@
+/key
+/key.pub
+__pycache__/
+.idea/
+.idea/workspace.xml
+open_status.txt
+static_queue.txt
+queue.txt
+bot_token.txt
+admins.txt
